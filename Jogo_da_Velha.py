@@ -81,5 +81,3 @@ while True:
                 print(f"\nParabens {p2}, você venceu!")
                 break
     
-
-# teste
